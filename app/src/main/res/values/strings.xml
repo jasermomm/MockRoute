@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MockRoute</string>
+    <string name="notification_channel_name">Active simulation</string>
+    <string name="notification_channel_description">Keeps a user-started mock-location session active</string>
+</resources>
